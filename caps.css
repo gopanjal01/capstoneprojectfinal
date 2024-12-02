@@ -1,0 +1,152 @@
+body {
+    background-color: rgb(181, 189, 180);
+  }
+
+  nav {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;   
+}
+  a {
+     font-size: 25px;
+     color: rgb(80, 212, 18);
+     border: 1px solid black; 
+       
+  }
+  nav a {
+    padding-left: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    float: left;
+    text-align: 50px; 
+    
+     
+  }
+  .hero {
+    background-image: url("abc.jpg") ;
+    background-size: 100% 100%;
+    height: 500px;
+    align-content: center; 
+    text-align: center;
+    flex-direction: row;
+    padding: 20px;      
+  }
+h1 {
+    font-size: 50px;
+    color: black;
+}
+p{
+font-size: 25px;
+color:aliceblue
+}  
+.queen {
+    background-image: url("background.jpg") ;
+    background-size: 100% 100%;
+    height: 300px;
+    align-content: center; 
+    text-align: center;
+    flex-direction: row;
+    padding: 20px;
+  }
+  h3{
+    height: 50px;
+    width: 100%;
+    text-align: center;
+  }
+  footer{
+    text-align: center;
+    background-color:  rgb(246, 12, 35);
+    color: blueviolet;
+   
+    
+  }
+  h2{
+    color: rgb(222, 20, 237);
+  }
+  .A{
+    color: black;
+  }
+  .B{
+    color: white;
+  }
+  div {
+    
+    width: 20px;
+    padding-top: auto;
+    margin: auto;
+    align-content: center;
+    padding-left: 5px;
+  }
+.son {
+    background-image: url("work.jpg");
+    background-size: 100% 100%;
+    height: 500px;
+    padding: 10px;
+    text-align: center;
+
+  }
+  h3{
+    color: rgb(235, 104, 10);
+    font-size: 30px;
+  }
+  .PROJECT{
+   
+      display: flex;
+      flex-direction: row;
+      margin: 30px;
+      font-size: 30px;
+      width: 90%;
+      align-content: center;
+      text-align: bottom;
+    }
+    .item1{
+      background-color: rgb(244, 233, 233); 
+      margin-right: 5px;
+      width: 300px;
+      height: 350px;
+      border: 5px solid rgb(245, 242, 242);
+      background-image: url("seo.jpg" );
+      background-size: 100% 100%;
+      border-bottom-width: 40px;
+      color: aqua;
+      
+      
+    }
+    .item2{
+      background-color: white;
+      margin-right: 5px;
+      width: 300px;
+      height: 350px;
+      border: 5px solid rgb(237, 235, 235);
+      background-image: url("blog.jpg" );
+      background-size: 100% 100%;
+      border-bottom-width: 40px;
+      
+      
+      
+    }
+    .item3{
+      background-color: white;
+      margin-right: 10px;
+      width: 300px;
+      height: 350px;
+      border: 5px solid rgb(247, 242, 242);
+      background-image: url("html.jpeg" );
+      background-size: 100% 100%;
+      border-bottom-width: 40px;
+    }
+    h4{
+    padding-top: 315px;
+    color:black
+    }
+    .home{
+      text-align: center;
+    }
+   
+  
+
+  
+  
